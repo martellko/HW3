@@ -1,0 +1,4 @@
+[DATA]
+data_set = "https://raw.githubusercontent.com/5x12/ml-cookbook/master/supplements/data/heart.csv"
+[DIR]
+dir= "models/conf/"
